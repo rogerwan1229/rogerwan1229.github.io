@@ -24,13 +24,13 @@ repository               : "rogerwan1229/rogerwan1229.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Tao-Yi Wan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Hello everyone, my name is Roger Wan."
+  location         : "San Diego, USA"
+  employer         : "University of California San Diego"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "twan@ucsd.edu" 
 
   # Academic websites
   academia         : # URL
